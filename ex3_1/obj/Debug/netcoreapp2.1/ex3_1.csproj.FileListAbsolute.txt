@@ -1,0 +1,11 @@
+/Users/mariana.sandoval/Projects/ex3_1/ex3_1/obj/Debug/netcoreapp2.1/ex3_1.csprojAssemblyReference.cache
+/Users/mariana.sandoval/Projects/ex3_1/ex3_1/obj/Debug/netcoreapp2.1/ex3_1.csproj.CoreCompileInputs.cache
+/Users/mariana.sandoval/Projects/ex3_1/ex3_1/obj/Debug/netcoreapp2.1/ex3_1.AssemblyInfoInputs.cache
+/Users/mariana.sandoval/Projects/ex3_1/ex3_1/obj/Debug/netcoreapp2.1/ex3_1.AssemblyInfo.cs
+/Users/mariana.sandoval/Projects/ex3_1/ex3_1/bin/Debug/netcoreapp2.1/ex3_1.deps.json
+/Users/mariana.sandoval/Projects/ex3_1/ex3_1/bin/Debug/netcoreapp2.1/ex3_1.runtimeconfig.json
+/Users/mariana.sandoval/Projects/ex3_1/ex3_1/bin/Debug/netcoreapp2.1/ex3_1.runtimeconfig.dev.json
+/Users/mariana.sandoval/Projects/ex3_1/ex3_1/bin/Debug/netcoreapp2.1/ex3_1.dll
+/Users/mariana.sandoval/Projects/ex3_1/ex3_1/bin/Debug/netcoreapp2.1/ex3_1.pdb
+/Users/mariana.sandoval/Projects/ex3_1/ex3_1/obj/Debug/netcoreapp2.1/ex3_1.dll
+/Users/mariana.sandoval/Projects/ex3_1/ex3_1/obj/Debug/netcoreapp2.1/ex3_1.pdb
